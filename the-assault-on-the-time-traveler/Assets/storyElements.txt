@@ -1,0 +1,7 @@
+You arise to see the ship that carried you and your
+ squad is destroyed! Your Teammates mangled bodies lay
+  across the ground. You look around to see what you can do?
+
+  A. Savage the Wreakage.
+
+  B. Bury the dead.
